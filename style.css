@@ -3,12 +3,16 @@
     background-color: skyblue;
     padding-top: 10px;
     padding-bottom: 10px;
+    font-family: 'Estonia', cursive;
+
 }
 
 img{
     width: 200px;
     height: 200px;
     border-radius: 100px;
+    margin-bottom: 250px;
+    margin-top: 40px;
 }
 
 body{
@@ -26,4 +30,7 @@ body{
     width: 100%;
     color: white;
     box-shadow: 10px -5px 20px rgb(6, 196, 230);
+    font-family: 'Estonia', cursive;
+    font-size: 25px;
+
 }
